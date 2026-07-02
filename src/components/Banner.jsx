@@ -4,7 +4,9 @@ import Flex from './Flex'
 import Btn from './Btn'
 import play from '../assets/play.png'
 import CountDown from './CountDown'
-
+import borderimg from '../assets/border.png'
+import borderimgs from '../assets/borders.png'
+import borderimgt from '../assets/bordert.png'
 import alibanat from '../assets/alibanat.mp4'
 import Box from '@mui/material/Box';
 import Modal from '@mui/material/Modal';
