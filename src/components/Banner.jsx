@@ -4,9 +4,7 @@ import Flex from './Flex'
 import Btn from './Btn'
 import play from '../assets/play.png'
 import CountDown from './CountDown'
-import borderimg from '../assets/border.png'
-import borderimgs from '../assets/borders.png'
-import borderimgt from '../assets/bordert.png'
+
 import alibanat from '../assets/alibanat.mp4'
 import Box from '@mui/material/Box';
 import Modal from '@mui/material/Modal';
@@ -49,15 +47,15 @@ function Banner() {
             <Flex className='items-center gap-px'>
             
             <div>
-              <img src={borderimg} alt="" />
+              <img src={} alt="" />
             </div>
             
             <div>
-              <img src={borderimgs} alt="" />
+              <img src={} alt="" />
             </div>
 
             <div>
-              <img src={borderimgt} alt="" />
+              <img src={} alt="" />
             </div>
             <div className=''>
             <h1 className='text-sm align-middle font-semibold'>Ideas that spark </h1>
