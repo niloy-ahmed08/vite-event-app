@@ -8,7 +8,7 @@ import React from 'react'
  import { FaTwitter } from "react-icons/fa";
  import { FaInstagramSquare } from "react-icons/fa";
 import UlliCstm from './UlliCstm';
-import button from '../assets/button.png'
+
 
 
 
@@ -35,7 +35,7 @@ your inbox.</h1>
                 <div className=' relative'>
                 <input type="text" placeholder='' className=' mt-6 w-120 bg-[#FFFFFF1A] rounded-[20px] h-20'
                  />
-                 <img src={button} alt="" className=' h-10 w-10 absolute top-10 left-107.5 mx-auto' />
+                 <img src={} alt="" className=' h-10 w-10 absolute top-10 left-107.5 mx-auto' />
                  </div>
 
                 </div>
