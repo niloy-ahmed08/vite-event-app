@@ -32,10 +32,10 @@ important announcement</h1>
                     <h1 className='text-[16px] leading-[23px] font-normal text-[#FFFFFF]'>Stay informed with instant updates delivered straight to
 your inbox.</h1>
                 </div>
-                <div className=' relative'>
+                <div className=' '>
                 <input type="text" placeholder='' className=' mt-6 w-120 bg-[#FFFFFF1A] rounded-[20px] h-20'
                  />
-                 <img src={} alt="" className=' h-10 w-10 absolute top-10 left-107.5 mx-auto' />
+                 
                  </div>
 
                 </div>
