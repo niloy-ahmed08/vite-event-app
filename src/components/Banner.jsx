@@ -49,15 +49,15 @@ function Banner() {
             <Flex className='items-center gap-px'>
             
             <div>
-              <img src={} alt="" />
+              <img src={borderimg} alt="" />
             </div>
             
             <div>
-              <img src={} alt="" />
+              <img src={borderimgs} alt="" />
             </div>
 
             <div>
-              <img src={} alt="" />
+              <img src={borderimgt} alt="" />
             </div>
             <div className=''>
             <h1 className='text-sm align-middle font-semibold'>Ideas that spark </h1>
