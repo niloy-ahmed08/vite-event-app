@@ -2,7 +2,7 @@ import React from 'react'
  import Container from './Container'
  import { MdOutlineNotificationsActive } from "react-icons/md";
  import { TbPointerSearch } from "react-icons/tb";
- import imgftter from '../assets/link.png'
+
  import { FaFacebook } from "react-icons/fa";
  import { FaLinkedin } from "react-icons/fa";
  import { FaTwitter } from "react-icons/fa";
@@ -46,7 +46,7 @@ your inbox.</h1>
 
               <div className='mt-23.75 flex justify-between'>
                 <div>
-                <img src={imgftter} alt="" />
+         
                 <p className='text-[16px] font-normal leading-5.75 text-white mt-8 w-97.25'>Experience a world-class conference designed
 to inspire innovation, empower professionals,
 and connect leaders from around the globe.</p>
